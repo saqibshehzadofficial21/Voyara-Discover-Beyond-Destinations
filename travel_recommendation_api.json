@@ -1,0 +1,128 @@
+{
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Anse Lazio",
+      "category": "beach",
+      "country": "Seychelles",
+      "description": "Granite boulders, clear turquoise water and a sweep of soft white sand make this Praslin shoreline unforgettable.",
+      "imageUrl": "https://images.unsplash.com/photo-1500375592092-40eb2168fd21?auto=format&fit=crop&w=1200&q=85",
+      "location": "Praslin, Seychelles",
+      "highlight": "Best for a quiet swim and sunset"
+    },
+    {
+      "id": 2,
+      "name": "Navagio Beach",
+      "category": "beach",
+      "country": "Greece",
+      "description": "A dramatic cove framed by pale limestone cliffs and Ionian-blue water on the island of Zakynthos.",
+      "imageUrl": "https://images.unsplash.com/photo-1533105079780-92b9be482077?auto=format&fit=crop&w=1200&q=85",
+      "location": "Zakynthos, Greece",
+      "highlight": "A spectacular boat-trip viewpoint"
+    },
+    {
+      "id": 3,
+      "name": "Whitehaven Beach",
+      "category": "beach",
+      "country": "Australia",
+      "description": "Silica-rich white sand and shifting blue shallows create one of the Whitsundays' most iconic coastal scenes.",
+      "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1200&q=85",
+      "location": "Whitsunday Island, Australia",
+      "highlight": "Aerial views over Hill Inlet"
+    },
+    {
+      "id": 4,
+      "name": "Cala Macarella",
+      "category": "beach",
+      "country": "Spain",
+      "description": "A sheltered Balearic cove surrounded by pine-covered cliffs, with inviting water in shades of aquamarine.",
+      "imageUrl": "https://images.unsplash.com/photo-1519046904884-53103b34b206?auto=format&fit=crop&w=1200&q=85",
+      "location": "Menorca, Spain",
+      "highlight": "A scenic coastal walk nearby"
+    }
+  ],
+  "temples": [
+    {
+      "id": 5,
+      "name": "Angkor Wat",
+      "category": "temple",
+      "country": "Cambodia",
+      "description": "A monumental Khmer temple complex celebrated for its intricate galleries, towers and extraordinary scale.",
+      "imageUrl": "https://images.unsplash.com/photo-1603262110263-fb0112e7cc33?auto=format&fit=crop&w=1200&q=85",
+      "location": "Siem Reap, Cambodia",
+      "highlight": "Arrive before sunrise"
+    },
+    {
+      "id": 6,
+      "name": "Kiyomizu-dera",
+      "category": "temple",
+      "country": "Japan",
+      "description": "A historic hillside Buddhist temple known for its broad wooden veranda and seasonal views across Kyoto.",
+      "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=85",
+      "location": "Kyoto, Japan",
+      "highlight": "Beautiful during cherry blossom season"
+    },
+    {
+      "id": 7,
+      "name": "Meenakshi Amman Temple",
+      "category": "temple",
+      "country": "India",
+      "description": "A vibrant Dravidian landmark distinguished by towering, richly sculpted gopurams and a living temple tradition.",
+      "imageUrl": "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?auto=format&fit=crop&w=1200&q=85",
+      "location": "Madurai, India",
+      "highlight": "Explore the colourful gateway towers"
+    },
+    {
+      "id": 8,
+      "name": "Borobudur",
+      "category": "temple",
+      "country": "Indonesia",
+      "description": "A vast Buddhist monument of terraces and stupas set amid the green landscapes of Central Java.",
+      "imageUrl": "https://images.unsplash.com/photo-1596402184320-417e7178b2cd?auto=format&fit=crop&w=1200&q=85",
+      "location": "Central Java, Indonesia",
+      "highlight": "Visit in the soft morning light"
+    }
+  ],
+  "countries": [
+    {
+      "id": 9,
+      "name": "Italy",
+      "category": "country",
+      "country": "Italy",
+      "description": "Move from Renaissance cities to vineyard-covered hills, dramatic coastlines and a deeply regional food culture.",
+      "imageUrl": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?auto=format&fit=crop&w=1200&q=85",
+      "location": "Southern and central Europe",
+      "highlight": "Art, architecture and slow-food journeys"
+    },
+    {
+      "id": 10,
+      "name": "Japan",
+      "category": "country",
+      "country": "Japan",
+      "description": "A compelling meeting of quiet gardens, contemporary city life, mountain landscapes and centuries-old craft.",
+      "imageUrl": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?auto=format&fit=crop&w=1200&q=85",
+      "location": "East Asia",
+      "highlight": "Balance city discoveries with nature"
+    },
+    {
+      "id": 11,
+      "name": "Morocco",
+      "category": "country",
+      "country": "Morocco",
+      "description": "Discover medina lanes, desert horizons, Atlantic towns and a rich tradition of design and hospitality.",
+      "imageUrl": "https://images.unsplash.com/photo-1489749798305-4fea3ae63d43?auto=format&fit=crop&w=1200&q=85",
+      "location": "North Africa",
+      "highlight": "Pair Marrakech with the Atlas Mountains"
+    },
+    {
+      "id": 12,
+      "name": "New Zealand",
+      "category": "country",
+      "country": "New Zealand",
+      "description": "A destination of alpine trails, fjords, geothermal landscapes and welcoming small towns.",
+      "imageUrl": "https://images.unsplash.com/photo-1469521669194-babb45599def?auto=format&fit=crop&w=1200&q=85",
+      "location": "South Pacific",
+      "highlight": "Explore by road at an unhurried pace"
+    }
+  ]
+}
